@@ -7,7 +7,7 @@ public class CExercise1b {
 		while (x > 1) {
 			x = x - 1;
 			if (x < 3) {
-				System.out.println("small X");
+				System.out.println("small X"); //Only CExercise1b will print out
 			}
 		}
 
